@@ -27,27 +27,15 @@ int main()
 {
     int input = 7;
     std::string FB = fizzbuzz(input);
-    if (input == 7)
-    {
-        assert(FB == "7");
-    }
+    assert(FB == "7");
     input = 3;
     FB = fizzbuzz(input);
-    if (input == 3)
-    {
-        assert(FB == "fizz");
-    }
+    assert(FB == "fizz");
     input = 5;
     FB = fizzbuzz(input);
-    if (input == 5)
-    {
-        assert(FB == "buzz");
-    }
+    assert(FB == "buzz");
     input = 15;
     FB = fizzbuzz(input);
-    if (input == 15)
-    {
-        assert(FB == "fizzbuzz");
-    }
+    assert(FB == "fizzbuzz");
     return 77;
 }
