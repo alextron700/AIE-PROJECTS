@@ -1,5 +1,12 @@
 #include <string>
 #include <iostream>
+/*
+fizzbuzz
+INPUT: input (int*), size(int)
+OUTPUT: NULL(void)
+DEPENDS ON: NULL
+IN COMPLIANCE WITH 1)
+*/
 void printArray(int* input, int size)
 { 
     for (int i = 0; i < size; i++)

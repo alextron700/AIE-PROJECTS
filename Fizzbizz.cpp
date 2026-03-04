@@ -1,6 +1,13 @@
 #include <iostream>
 #include <cassert>
 #include <string>
+/*
+fizzbuzz
+INPUT: input (int)
+OUTPUT: out(string)
+DEPENDS ON: to_string()
+IN COMPLIANCE WITH 2)
+*/
 std::string fizzbuzz(int input)
 {
     bool F = false;
