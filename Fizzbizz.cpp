@@ -37,5 +37,5 @@ int main()
     input = 15;
     FB = fizzbuzz(input);
     assert(FB == "fizzbuzz");
-    return 77;
+    return 0;
 }
