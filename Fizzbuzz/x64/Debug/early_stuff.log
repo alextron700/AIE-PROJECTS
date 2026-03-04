@@ -1,5 +1,2 @@
 ﻿  Fizzbizz.cpp
-  printArray.cpp
-  Generating Code...
-printArray.obj : error LNK2005: main already defined in Fizzbizz.obj
-C:\Users\s251645\OneDrive - The Academy of Interactive Entertainment Ltd\Documents\GitHub\AIE-PROJECTS\x64\Debug\Fizzbuzz.exe : fatal error LNK1169: one or more multiply defined symbols found
+  early_stuff.vcxproj -> C:\Users\s251645\Documents\GitHub\AIE-PROJECTS\x64\Debug\Fizzbuzz.exe

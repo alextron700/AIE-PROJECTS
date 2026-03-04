@@ -1,13 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\AIE-PROJECTS\\",
+  "WorkspaceRootPath": "C:\\Users\\s251645\\Documents\\GitHub\\AIE-PROJECTS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{665A967A-08D0-D55B-AD15-F1B8896A5A69}|early_stuff.vcxproj|C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\AIE-PROJECTS\\Fizzbizz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{665A967A-08D0-D55B-AD15-F1B8896A5A69}|early_stuff.vcxproj|solutionrelative:Fizzbizz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{017DCCC8-5208-43D7-A37F-0DF79BF070E6}|..\\statistics\\statistics.vcxproj|C:\\Users\\s251645\\Documents\\GitHub\\statistics\\stats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\statistics\\stats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A967A-08D0-D55B-AD15-F1B8896A5A69}|early_stuff.vcxproj|C:\\Users\\s251645\\Documents\\GitHub\\AIE-PROJECTS\\Fizzbizz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{665A967A-08D0-D55B-AD15-F1B8896A5A69}|early_stuff.vcxproj|solutionrelative:Fizzbizz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\minimum\\min.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,33 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AIE_project0.cpp",
-              "DocumentMoniker": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp",
-              "ToolTip": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "stats.cpp",
+              "DocumentMoniker": "C:\\Users\\s251645\\Documents\\GitHub\\statistics\\stats.cpp",
+              "RelativeDocumentMoniker": "..\\statistics\\stats.cpp",
+              "ToolTip": "C:\\Users\\s251645\\Documents\\GitHub\\statistics\\stats.cpp",
+              "RelativeToolTip": "..\\statistics\\stats.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-04T01:31:21.636Z",
+              "WhenOpened": "2026-03-04T03:24:17.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Fizzbizz.cpp",
-              "DocumentMoniker": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\AIE-PROJECTS\\Fizzbizz.cpp",
-              "RelativeDocumentMoniker": "Fizzbizz.cpp",
-              "ToolTip": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\AIE-PROJECTS\\Fizzbizz.cpp",
-              "RelativeToolTip": "Fizzbizz.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCMAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "stats.cpp",
+              "DocumentMoniker": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\statistics\\stats.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\statistics\\stats.cpp",
+              "ToolTip": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\statistics\\stats.cpp",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\statistics\\stats.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-04T01:30:49.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T03:11:48.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "min.cpp",
+              "DocumentMoniker": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\minimum\\min.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\minimum\\min.cpp",
+              "ToolTip": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\minimum\\min.cpp",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - The Academy of Interactive Entertainment Ltd\\Documents\\GitHub\\minimum\\min.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T03:04:53.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AIE_project0.cpp",
+              "DocumentMoniker": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp",
+              "ToolTip": "C:\\Users\\s251645\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - The Academy of Interactive Entertainment Ltd\\Desktop\\AIE projects\\AIE_project0\\AIE_project0\\AIE_project0.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAF8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T01:31:21.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fizzbizz.cpp",
+              "DocumentMoniker": "C:\\Users\\s251645\\Documents\\GitHub\\AIE-PROJECTS\\Fizzbizz.cpp",
+              "RelativeDocumentMoniker": "Fizzbizz.cpp",
+              "ToolTip": "C:\\Users\\s251645\\Documents\\GitHub\\AIE-PROJECTS\\Fizzbizz.cpp",
+              "RelativeToolTip": "Fizzbizz.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T01:30:49.105Z"
             }
           ]
         }
