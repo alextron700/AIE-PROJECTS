@@ -1,1 +1,1 @@
-This is purtely to demonstrate version control usage
+This is purely to demonstrate version control usage
