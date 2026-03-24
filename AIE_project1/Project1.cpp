@@ -154,7 +154,7 @@ int main()
 	{
 		std::cout << linsearch[i] << " ,";
 	}
-	for (int i = 0; i < 12; i++)
+	for (int i = 0; i < 19; i++)
 	{
 		assert(linsearch[i] <= linsearch[i + 1]);
 	}
