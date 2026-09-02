@@ -1,0 +1,4 @@
+﻿  CDDS_Optimise_Tests.cpp
+C:\Users\s251645\Documents\Math_for_games\RaylibStarterCpp\CDDS_Optimise_Tests\SpatialHash.h(3,10): error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  (compiling source file '/CDDS_Optimise_Tests.cpp')
+  
